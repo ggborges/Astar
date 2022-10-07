@@ -2,6 +2,7 @@
 
 ### Algoritmo de busca heurística para encontrar a melhor rota dentre as linhas de metrô de Paris: 🎨
 <img src="../blob/main/src/metro_paris_img.PNG" alt="Mapa do metrô de Paris"/>
+![alt text]("../blob/main/src/metro_paris_img.PNG")
 
 ### How to Run it ⚙️
 #### Passo a passo será atualizado em breve
